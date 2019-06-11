@@ -1,9 +1,9 @@
 # Personal-Site
 Staking my personal claim on the world wide web! <br />
-This site is essentially on online resume with links to several sites with information about me.
+This is my personal portfolio with projects and sites included.
 # Getting Started
 Simply go to the following url to view the sie: <br />
-https://jonathanrobertson.surge.sh/
+http://jonrobertson.tech
 # Built With
 Bootstrap 4 Resume-Min Framework
 
